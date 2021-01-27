@@ -1,0 +1,21 @@
+#red {color: red;}
+#blue {color:blue;}
+#green {color:green}
+#big {font-size: 48px;}
+#tiny {font-size: x-small;}
+#center {text-align: center;}
+#bold {font-weight: bolder;}
+#font {font-family: 'Courier New', Courier, monospace;}
+#pickle { font-size: x-large;
+color: orange;
+font-weight: bolder;
+
+}
+.styledFont { text-decoration: underline;
+color: plum;
+font-family: cursive;
+}
+#styledImage {
+    border: 15px solid rgb(211, 35, 211);
+    
+}ß
